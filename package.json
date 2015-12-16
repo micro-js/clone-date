@@ -1,5 +1,5 @@
 {
-  "name": "@micro-js/clone-date",
+  "name": "@f/clone-date",
   "description": "Clone a date object",
   "repository": "git://github.com/micro-js/clone-date.git",
   "version": "1.0.0",

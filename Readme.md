@@ -10,12 +10,12 @@ Clone a date object
 
 ## Installation
 
-    $ npm install @micro-js/clone-date
+    $ npm install @f/clone-date
 
 ## Usage
 
 ```js
-var cloneDate = require('@micro-js/clone-date')
+var cloneDate = require('@f/clone-date')
 var date = new Date()
 var newDate = cloneDate(date)
 
@@ -41,5 +41,5 @@ MIT
 [git-url]: https://github.com/micro-js/clone-date
 [standard-image]: https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat
 [standard-url]: https://github.com/feross/standard
-[npm-image]: https://img.shields.io/npm/v/@micro-js/clone-date.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/@micro-js/clone-date
+[npm-image]: https://img.shields.io/npm/v/@f/clone-date.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@f/clone-date
